@@ -2,7 +2,7 @@
 Project Document and Stata code for MSc Thesis
 
 
-# This project uses data from the German Socio-economic panel (2017):
+# This project uses data from the German Socio-economic Panel (2017):
 How to access data:
 Current EUI members can access German SOEP data as follows:
 
