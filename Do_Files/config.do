@@ -36,7 +36,7 @@ global workingDir "D:\SET_WORKING_DIRECTORY\"
 
 
 //Set Data Directory//
-global data "D:\SET_DATA_DDIRECTORY\"
+global data "D:\SET_DATA_DIRECTORY\"
 
 
 global tempDir 		= "${workingDir}/temp"		// Temp File Dir.
